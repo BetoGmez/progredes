@@ -2,7 +2,7 @@
 Se ocupan los 3 comandos 
 git add .
 git commit -m "comentario"
-git push
+    git push
 '''
 
 '''
