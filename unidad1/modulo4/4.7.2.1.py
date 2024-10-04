@@ -1,3 +1,8 @@
+# 4.7.2.1 PROYECTO: TIC-TAC-TOE
+''' Nombre: Luis Alberto Romero Gómez
+    Descripcion: Usar las propias funciones
+    Fecha: 01 de octubre
+'''
 from random import randrange
 
 def DisplayBoard(board):
